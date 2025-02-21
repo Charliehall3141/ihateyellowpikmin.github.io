@@ -48,7 +48,14 @@ body {
     border-color: red;
 }
 
-.border_yellow{
-    border-style: solid;
-    border-color: yellow;
+.border{
+    border: 100px solid black;
+    width: 70;
+    height: 70;
+    padding: 15px;
+    top: 15%;
+    left: 15%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    border-image: url(border_red.png) 33% repeat;
 }
