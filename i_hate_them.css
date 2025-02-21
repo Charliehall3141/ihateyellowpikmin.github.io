@@ -45,5 +45,6 @@ body {
 
 .dotted{
     border-style: dotted;
+    border-style: solid;
     border-color: red;
 }
