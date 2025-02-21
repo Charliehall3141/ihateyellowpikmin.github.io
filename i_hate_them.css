@@ -33,6 +33,10 @@ body {
 .big{
     font-size: 100;
 
+.right{
+    text-align: right;
+    }
+
 }
 
 .text_cen{
