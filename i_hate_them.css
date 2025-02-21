@@ -42,3 +42,7 @@ body {
 .text_cen{
     text-align: center;
 }
+
+.dotted{
+    border-style: dotted;
+}
