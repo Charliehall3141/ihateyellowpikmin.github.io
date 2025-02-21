@@ -2,9 +2,6 @@
     color: rgba(255, 0, 0, 0.717);
 }
 
-@media screen and (min-width: 768px) {
-  body {
-    font-size: 18px;
 
 body {
     background-color: rgb(255, 120, 58)
