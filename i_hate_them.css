@@ -45,4 +45,5 @@ body {
 
 .dotted{
     border-style: dotted;
+    bborder-color: red;
 }
