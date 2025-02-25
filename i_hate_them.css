@@ -62,3 +62,7 @@ body {
     transform: translate(-50%, -50%);
     border-image: url(pumpkin_border.png) 33% repeat;
 }
+
+img {
+  border: 10px solid yellow;
+}
