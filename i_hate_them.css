@@ -64,5 +64,7 @@ body {
 }
 
 img {
-  border: 10px linear-gradient(red, yellow);
+  border: 5px solid; /* Adjust the border width as needed */
+  border-image: linear-gradient(to right, yellow, red);
+  border-image-slice: 1;
 }
