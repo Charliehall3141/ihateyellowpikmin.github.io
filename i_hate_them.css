@@ -64,5 +64,5 @@ body {
 }
 
 img {
-  border: 10px solid yellow;
+  border: 10px linear-gradient(red, yellow);w;
 }
